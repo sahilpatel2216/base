@@ -17,7 +17,7 @@
     },
     "autoload": {
         "psr-4": {
-            "mywidgets\\base\\": ""
+            "mywidgets\\base-widget\\": ""
         }
     },
     "extra": {
