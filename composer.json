@@ -1,5 +1,5 @@
 {
-    "name": "mywidgets/base",
+    "name": "mywidgets/base-widget",
     "description": "Base library and foundation components for all Yii2 extensions.",
     "keywords": ["yii2", "extension", "widget", "base", "foundation"],
     "homepage": "https://github.com/sahilpatel2216/base",
@@ -22,7 +22,7 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "1.0.x-dev"
+            "dev-master": "1.0"
         }
     }
 }
