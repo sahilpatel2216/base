@@ -11,6 +11,7 @@
         }
     ],
     "minimum-stability": "stable",
+    "prefer-stable": true,
     "require": {
         "yiisoft/yii2": "*"
     },
