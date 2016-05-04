@@ -5,7 +5,7 @@
  * @license http://www.yiiframework.com/license/
  */
 
-namespace mywidgets\base-widget;
+namespace mywidgets\base;
 
 use yii\base\InvalidConfigException;
 use yii\helpers\Html;
