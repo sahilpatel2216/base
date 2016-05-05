@@ -5,7 +5,7 @@
  * @license http://www.yiiframework.com/license/
  */
 
-namespace mywidgets\base;
+namespace mywidget\base;
 
 use yii\web\AssetBundle;
 

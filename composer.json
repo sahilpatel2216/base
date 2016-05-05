@@ -1,8 +1,8 @@
 {
-    "name": "sahilpatel2216/base",
+    "name": "mywidget/base",
     "description": "Base library and foundation components for all Yii2 extensions.",
     "keywords": ["yii2", "extension", "widget", "base", "foundation"],
-    "homepage": "https://github.com/sahilpatel2216/base",
+    "homepage": "https://github.com/mywidget/base",
     "type": "yii2-extension",
     "license": "BSD-3-Clause",
     "authors": [
@@ -18,7 +18,7 @@
     },
     "autoload": {
         "psr-4": {
-            "mywidgets\\base\\": ""
+            "mywidget\\base\\": ""
         }
     },
     "extra": {
